@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="IMT18">ИМТ меньше 18:	Ниже нормального веса</string>
+    <string name="IMT30">ИМТ >= 25 И меньше 30: Избыточный вес</string>
+    <string name="IMT25">ИМТ >= 18.5 И меньше 25: Нормальный вес</string>
+    <string name="IMT35">ИМТ >= 30 И меньше 35: Ожирение 1 степени</string>
+    <string name="IMT40">ИМТ >= 35 И меньше 40: Ожирение 2 степени</string>
+    <string name="IMT50">ИМТ >= 40:	Ожирение 3 степени</string>
+    <string name="your_weight">Твой вес (кг)</string>
+    <string name="your_height">Твой рост (см)</string>
+    <string name="ResultIMT">Рассчитать ИМТ</string>
+    <string name="result_text">Ваш индекс массы тела составляет  %1$s kg/m2</string>
+    <string name="not_weightValue">Вы не указали Вес</string>
+    <string name="not_heightValue">Вы не указали Рост</string>
 </resources>
