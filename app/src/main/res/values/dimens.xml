@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_layout_width">217dp</dimen>
+    <dimen name="edittext_layout_height">42dp</dimen>
+    <dimen name="textview_layout_width">100dp</dimen>
+    <dimen name="textview_layout_height">22dp</dimen>
+    <dimen name="imagelogo_land_layout_width">163dp</dimen>
+    <dimen name="imagelogo_land_layout_height">144dp</dimen>
+    <dimen name="imagelogo_layout_width">229dp</dimen>
+    <dimen name="imagelogo_layout_height">199dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Индекс массы тела</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="auth">Авторизация</string>
+    <string name="result_text"> Количество нажатий - %1$s \nКоличество символов - %2$s</string>
+</resources>

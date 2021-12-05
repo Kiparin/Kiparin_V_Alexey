@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">Body mass index</string>
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="auth">Authentication</string>
-    <string name="result_text">Number of clicks  - %1$s \nNumber of characters - %2$s</string>
+    <string name="result_text">Number of clicks - %1$s \nNumber of characters - %2$s</string>
 </resources>
